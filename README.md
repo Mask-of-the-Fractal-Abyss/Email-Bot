@@ -2,7 +2,7 @@
 
 This project aims to create a robot which can be remotely controlled through email.
 
-Essentially the robot receives and email with a command, executes that movement, and then sends a return image of it's new view.
+Essentially the robot receives an email with a command, executes that movement, and then sends a return image of it's new view.
 This project is interesting because the robot can be controlled from anywhere in the world, if there is internet connect.  The significant latency in response time of the robot means this system also emulates long distance communications with high speed satalites (such as Voyager 1 and 2).
 
 As of this push, it takes 15 minutes for a signal to reach Voyager 1!
